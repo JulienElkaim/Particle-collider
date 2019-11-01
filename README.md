@@ -1,4 +1,6 @@
-# Particle-collider  
+# Particle-collider    
+
+_**School project : February 2019**_
 
 **_School project using C++ language and  QT creator._**  
 
